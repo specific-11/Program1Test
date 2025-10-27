@@ -16,6 +16,17 @@ public class JavaApplication26 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        int x=42;
+        int y=69;
+        int sum = x+y;
+        int razn = x-y;
+        int divn = y/x;
+        int mult = x*y;
+        System.out.println("x=42 y=6");
+        System.out.println("sum="+sum);
+        System.out.println("raznost="+razn);
+        System.out.println("division="+divn);
+        System.out.println("multiplication="+mult);
     }
     
 }
