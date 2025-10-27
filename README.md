@@ -1,2 +1,1 @@
-# Program1Test
-App
+# Program1Test Мой первый проект! Ого!
